@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/-SQLite-4DB33D?style=flat&logo=sqlite&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Linux-f24429?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/-Docker-85e3ed?style=flat&logo=docker&logoColor=blue">
+<img src="https://img.shields.io/badge/-R-e8dcbc?style=flat&logo=r&logoColor=black">
+
 
 ### Other Languages I know / learning
 
