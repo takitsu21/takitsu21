@@ -26,5 +26,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=takitsu21&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=fffff)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takitsu21&layout=compact)
+
 ![Profile views](https://gpvc.arturio.dev/takitsu21)  <img src="https://img.shields.io/github/followers/takitsu21?label=Follow" style=" float:left, margin-right:10px" />
 
