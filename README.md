@@ -17,10 +17,12 @@
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=black">
+<img src="https://img.shields.io/badge/-OCaml-f08a2b?style=flat&logo=ocaml&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-Java-FFA611?style=flat&logo=java&logoColor=ffffff">
 
 ### Other Languages I know / learning
 
-<img src="https://img.shields.io/badge/-OCaml-f08a2b?style=flat&logo=ocaml&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-FFA611?style=flat&logo=java&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Racket-blue?style=flat&logo=racket&logoColor=ffffff">
 
 ---
 
