@@ -1,4 +1,4 @@
-<strong>👋 Hey, I'am a 3rd year student in Computer Science.</strong>
+<strong>👋 Hey, I'am a MSc student in Computer Science.</strong>
 
 
 ---
