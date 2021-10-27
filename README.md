@@ -27,7 +27,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=takitsu21&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=fffff)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=takitsu21&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takitsu21&layout=compact)
 
