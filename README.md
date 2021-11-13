@@ -30,7 +30,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takitsu21&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takitsu21&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takitsu21&theme=onedark)
 
 ![Profile views](https://gpvc.arturio.dev/takitsu21)  <img src="https://img.shields.io/github/followers/takitsu21?label=Follow" style=" float:left, margin-right:10px" />
 
