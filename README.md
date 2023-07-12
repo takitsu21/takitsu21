@@ -1,5 +1,6 @@
 # 👋 Hey!
 
+[<img alt="LinkedIn" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/dylannbatisse/)
 
 I'm Dylann aka Dylzz 😎 a French student in CyberSecurity who loves blending security and development 🔒💻. I'm set to graduate this year and I'm excited to apply my skills in the real world. 🎓
 
@@ -11,7 +12,8 @@ Don't hesitate to ask questions or provide suggestions. I'm always eager to lear
 
 🔍 Explore my projects: [github.com/takitsu21](https://github.com/takitsu21?tab=repositories&type=source)
 
-[<img alt="LinkedIn" height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/dylannbatisse/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takitsu21&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takitsu21&layout=compact&hide=lua&theme=nord)
 
 ## Education
 
