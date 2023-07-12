@@ -24,7 +24,7 @@ Don't hesitate to ask questions or provide suggestions. I'm always eager to lear
 
 - [Oct 2023 - ?] - [Amadeus](https://amadeus.com/), **Appplication Security Engineer**
 - [Oct 2022 - Sep 2023] - [Amadeus](https://amadeus.com/), **IAM Security Administrator Apprentice** - *PCI DSS Compliance, integration of new applications in the IAM solution and support of the IAM solution.*
-- [Jun 2022 - Aug 2022] - [ziosting](https://www.ziosting.com/), **DevSecOps Intern** - *Tool which scan docker images CVEs inside a cluster and evaluate the vulnerabilites, contribution to the API that interact with Kubernetes*
+- [Jul 2022 - Aug 2022] - [ziosting](https://www.ziosting.com/), **DevSecOps Intern** - *Tool which scan docker images CVEs inside a cluster and evaluate the vulnerabilites, contribution to the API that interact with Kubernetes*
 
 ## Projects
 
